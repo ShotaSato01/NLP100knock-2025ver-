@@ -1,0 +1,6 @@
+digraph {
+	node [fontname=IPAexGothic shape=box]
+	0 [label="メロスは"]
+	1 [label="激怒した。"]
+	0 -> 1
+}
